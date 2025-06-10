@@ -3,6 +3,8 @@
 𝙿𝚛𝚘𝚏𝚎𝚜𝚜𝚘𝚛 Marcelo Amorim
 
 𝙳𝚎𝚜𝚌𝚛𝚒𝚌̧𝚊̃𝚘 𝚍𝚘 𝚙𝚛𝚘𝚓𝚎𝚝𝚘: 𝙿𝚛𝚘𝚓𝚎𝚝𝚘 𝚙𝚊𝚛𝚊 desenvolver em Java uma fila "brasileira".
+Exemplo de entrada: <a> entrada.txt <a>
+Saída esperada: <a> saida.txt <a>
 
 ## Integrantes
 
