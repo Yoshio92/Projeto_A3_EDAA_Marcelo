@@ -1,6 +1,8 @@
 # 𝙿𝚛𝚘𝚓𝚎𝚝𝚘 𝙰𝟹 - 𝟸𝟶𝟸5
 
-𝙿𝚛𝚘𝚏𝚎𝚜𝚜𝚘𝚛 Marcelo Amorim
+𝙿𝚛𝚘𝚏𝚎𝚜𝚜𝚘𝚛: Marcelo de Moura Amorim
+
+Matéria: Estrutura de dados e análise de algoritmos 
 
 𝙳𝚎𝚜𝚌𝚛𝚒𝚌̧𝚊̃𝚘 𝚍𝚘 𝚙𝚛𝚘𝚓𝚎𝚝𝚘: 𝙿𝚛𝚘𝚓𝚎𝚝𝚘 𝚙𝚊𝚛𝚊 desenvolver em Java uma fila "brasileira".
 
